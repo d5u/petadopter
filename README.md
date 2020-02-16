@@ -1,4 +1,7 @@
 # petadopter
+```
+Pet Adoption Web Application utilizing Vue, Vuex, Bootstrap, and Sass from freecodecamp.org
+```
 
 ## Project setup
 ```
@@ -19,6 +22,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
